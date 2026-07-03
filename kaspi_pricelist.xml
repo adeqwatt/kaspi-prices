@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-03 14:21">
+  <company>PrimeComputers</company>
+  <merchantid></merchantid>
+  <offers>
+    <offer sku="82YU016XRU">
+      <model>Ноутбук Lenovo 82YU016XRU Lenovo V15 G4 AMN 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 7520U up to 4,3Ghz (4C)/8GB/512GB/AMD Radeon 610M /Wi-Fi 6/BT5.3/720P HD Camera/NoOS/1Y/Business Black</model>
+      <brand>Lenovo</brand>
+      <availabilities>
+        <availability storeId="1" available="39"/>
+        <availability storeId="2" available="0"/>
+      </availabilities>
+      <price>269798</price>
+    </offer>
+    <offer sku="21KK0015RU">
+      <model>Ноутбук Lenovo 21KK0015RU ThinkBook 16 G6 ABP 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 3 7330U 2,3Ghz Quad/8GB/256GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.3/IR &amp; 1080p/BKLT/FPR/NoOS/1Y/Arctic Grey</model>
+      <brand>Lenovo</brand>
+      <availabilities>
+        <availability storeId="1" available="19"/>
+        <availability storeId="2" available="0"/>
+      </availabilities>
+      <price>289990</price>
+    </offer>
+  </offers>
+</kaspi_catalog>
