@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-08 09:36">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-08 09:56">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -235,7 +235,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>658195</price>
+      <price>658180</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -442,7 +442,7 @@
         <availability storeId="PP1" available="2"/>
         <availability storeId="PP2" available="5"/>
       </availabilities>
-      <price>310916</price>
+      <price>310913</price>
     </offer>
     <offer sku="90NB10T2-M01TH0">
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
@@ -451,7 +451,7 @@
         <availability storeId="PP1" available="182"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>319375</price>
+      <price>319371</price>
     </offer>
     <offer sku="90NB1841-M006C0">
       <model>Ноутбук Asus 90NB1841-M006C0 Vivobook 15 M1502NAQ-BQ067 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 150 Processor up to 4,55Ghz (6C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6/BT5.4/720P HD Camera/BKLT/NoOS/1Y/Quiet Blue</model>
@@ -622,7 +622,7 @@
         <availability storeId="PP1" available="23"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>979990</price>
+      <price>969940</price>
     </offer>
     <offer sku="90NR0NL1-M001L0">
       <model>Ноутбук Asus 90NR0NL1-M001L0 TUF Gaming A18 FA808UP-S8030 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6E/BT5.3/IR+1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
