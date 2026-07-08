@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-08 20:15">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-08 22:15">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -37,7 +37,7 @@
         <availability storeId="PP1" available="65"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>309990</price>
+      <price>299437</price>
     </offer>
     <offer sku="83KA000URK">
       <model>Ноутбук Lenovo 83KA000URK IdeaPad Slim 3 15AHP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 8540U up to 4,9Ghz (6C)/8GB/512GB/AMD Radeon 740M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -91,7 +91,7 @@
         <availability storeId="PP1" available="6"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>359560</price>
+      <price>359559</price>
     </offer>
     <offer sku="83K1002HRK">
       <model>Ноутбук Lenovo 83K1002HRK IdeaPad Slim 3 15IRH10 15.3&quot; WUXGA (1920x1200) IPS/Intel Core i7-13620H up to 4.9GHz (P), 3.6GHz (E) (10Cores)/8GB/512GB/Integrated Intel UHD /Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Luna Grey</model>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>385837</price>
+      <price>385836</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -181,7 +181,7 @@
         <availability storeId="PP1" available="96"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>576773</price>
+      <price>576751</price>
     </offer>
     <offer sku="83DV01CMRK">
       <model>Ноутбук Lenovo 83DV01CMRK LOQ 15IRX9 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13650HX up to 4.9GHz (P), 3.6GHz (E) (14Cores)/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX3050 6GB/Wi-Fi 6/BT5.2/1080P FHD Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -235,7 +235,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>657575</price>
+      <price>657500</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -361,7 +361,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>969618</price>
+      <price>969609</price>
     </offer>
     <offer sku="83JH003NRK">
       <model>Ноутбук Lenovo 83JH003NRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -442,7 +442,7 @@
         <availability storeId="PP1" available="2"/>
         <availability storeId="PP2" available="5"/>
       </availabilities>
-      <price>310739</price>
+      <price>310718</price>
     </offer>
     <offer sku="90NB10T2-M01TH0">
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
@@ -451,7 +451,7 @@
         <availability storeId="PP1" available="182"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>319196</price>
+      <price>319179</price>
     </offer>
     <offer sku="90NB13Y1-M01PX0">
       <model>Ноутбук Asus 90NB13Y1-M01PX0 Vivobook 15 X1504VA-BQ4055 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 120U up to 5.0 GHz (10 Cores)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.2/720P HD Camera/BKLT/NoOS/1Y/Quiet Blue</model>
@@ -496,7 +496,7 @@
         <availability storeId="PP1" available="4"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>408795</price>
+      <price>408794</price>
     </offer>
     <offer sku="90NR0MZ6-M005K0">
       <model>Ноутбук Asus 90NR0MZ6-M005K0 TUF Gaming F16 FX607VJB-RL103 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX3050 6GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/NoOS/1Y/Mecha Gray</model>
