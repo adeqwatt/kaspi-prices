@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-13 20:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-13 22:14">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>372578</price>
+      <price>372569</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -226,7 +226,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>651990</price>
+      <price>651955</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -487,7 +487,7 @@
         <availability storeId="PP1" available="4"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>408950</price>
+      <price>419940</price>
     </offer>
     <offer sku="90NR0MZ6-M005K0">
       <model>Ноутбук Asus 90NR0MZ6-M005K0 TUF Gaming F16 FX607VJB-RL103 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX3050 6GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/NoOS/1Y/Mecha Gray</model>
