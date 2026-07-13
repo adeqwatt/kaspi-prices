@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-13 10:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-13 14:14">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>372741</price>
+      <price>372715</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -172,7 +172,7 @@
         <availability storeId="PP1" available="96"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>546671</price>
+      <price>546710</price>
     </offer>
     <offer sku="83DV01CMRK">
       <model>Ноутбук Lenovo 83DV01CMRK LOQ 15IRX9 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13650HX up to 4.9GHz (P), 3.6GHz (E) (14Cores)/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX3050 6GB/Wi-Fi 6/BT5.2/1080P FHD Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -226,7 +226,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>652655</price>
+      <price>652435</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -352,7 +352,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>957931</price>
+      <price>957939</price>
     </offer>
     <offer sku="83JH003NRK">
       <model>Ноутбук Lenovo 83JH003NRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -442,7 +442,7 @@
         <availability storeId="PP1" available="182"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>318937</price>
+      <price>318990</price>
     </offer>
     <offer sku="90NB13Y1-M01PX0">
       <model>Ноутбук Asus 90NB13Y1-M01PX0 Vivobook 15 X1504VA-BQ4055 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 120U up to 5.0 GHz (10 Cores)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.2/720P HD Camera/BKLT/NoOS/1Y/Quiet Blue</model>
@@ -523,7 +523,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="3"/>
       </availabilities>
-      <price>498950</price>
+      <price>499940</price>
     </offer>
     <offer sku="90NB17R1-M006M0">
       <model>Ноутбук Asus 90NB17R1-M006M0 Zenbook 14 UM3406GA-QD134 14&quot; WUXGA (1920 x 1200) OLED/AMD Ryzen™ AI 400/16GB/1TB SSD/AMDRadeonGraphics/Wi-Fi 6E/BT5.4/IR+FHD Camera/BKLT/NoOS/1Y/Jade Black</model>
@@ -541,7 +541,7 @@
         <availability storeId="PP1" available="118"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>628940</price>
+      <price>628950</price>
     </offer>
     <offer sku="90NR0NA1-M007N0">
       <model>Ноутбук Asus 90NR0NA1-M007N0 TUF Gaming F16 FX608JHR-RV144 16&quot; WUXGA(1920x1200) IPS 165Hz/Intel Core i5-14450HX up to 4.8GHz (10C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
@@ -550,7 +550,7 @@
         <availability storeId="PP1" available="71"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>648062</price>
+      <price>648949</price>
     </offer>
     <offer sku="90NR0NB1-M00DL0">
       <model>Ноутбук Asus 90NR0NB1-M00DL0 TUF Gaming F16 FX608JMI-TU253 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core i5-14450HX up to 4.8GHz (10C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
@@ -721,7 +721,7 @@
         <availability storeId="PP1" available="86"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>242930</price>
+      <price>242990</price>
     </offer>
     <offer sku="D18P8EA">
       <model>Ноутбук HP D18P8EA HP Laptop 15-fd0325ci 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 120U up to 5,0 Ghz 10Core/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Chalkboard gray</model>
