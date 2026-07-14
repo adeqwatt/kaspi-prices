@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-14 08:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-14 10:14">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>372524</price>
+      <price>372516</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -226,7 +226,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>651490</price>
+      <price>651370</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -244,7 +244,7 @@
         <availability storeId="PP1" available="17"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>687990</price>
+      <price>665890</price>
     </offer>
     <offer sku="83JE00RNRK">
       <model>Ноутбук Lenovo 83JE00RNRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -262,7 +262,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>718990</price>
+      <price>696390</price>
     </offer>
     <offer sku="83JE018CRK">
       <model>Ноутбук Lenovo 83JE018CRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13645HX up to 4.9GHz (P), 3.5GHz (E) (14Cores)/AI-Powered Gaming PC/16GB/1TB SSD/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -352,7 +352,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>957837</price>
+      <price>957990</price>
     </offer>
     <offer sku="83JH003NRK">
       <model>Ноутбук Lenovo 83JH003NRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
