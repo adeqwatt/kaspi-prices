@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-14 13:13">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-14 14:14">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -10,7 +10,7 @@
         <availability storeId="PP1" available="39"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>269747</price>
+      <price>269696</price>
     </offer>
     <offer sku="21KK0015RU">
       <model>Ноутбук Lenovo 21KK0015RU ThinkBook 16 G6 ABP 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 3 7330U 2,3Ghz Quad/8GB/256GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.3/IR &amp; 1080p/BKLT/FPR/NoOS/1Y/Arctic Grey</model>
@@ -37,7 +37,7 @@
         <availability storeId="PP1" available="65"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>307837</price>
+      <price>307990</price>
     </offer>
     <offer sku="83KA000URK">
       <model>Ноутбук Lenovo 83KA000URK IdeaPad Slim 3 15AHP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 8540U up to 4,9Ghz (6C)/8GB/512GB/AMD Radeon 740M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -91,7 +91,7 @@
         <availability storeId="PP1" available="6"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>349940</price>
+      <price>358990</price>
     </offer>
     <offer sku="83K1002HRK">
       <model>Ноутбук Lenovo 83K1002HRK IdeaPad Slim 3 15IRH10 15.3&quot; WUXGA (1920x1200) IPS/Intel Core i7-13620H up to 4.9GHz (P), 3.6GHz (E) (10Cores)/8GB/512GB/Integrated Intel UHD /Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Luna Grey</model>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>372506</price>
+      <price>372454</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -154,7 +154,7 @@
         <availability storeId="PP1" available="44"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>522847</price>
+      <price>526990</price>
     </offer>
     <offer sku="83DC008RRK">
       <model>Ноутбук Lenovo 83DC008RRK IdeaPad Slim 5 16IMH9 16&quot; 2K (2048x1280) OLED 120Hz/Intel Core Ultra 7 155H up to 4,8Ghz (16Cores)/Intel AI Boost/16GB/512GB/Integrated Intel Arc/Wi-Fi 6E/BT5.2/IR &amp; 1080p+ToF Sensor/BKLT/NoOS/1Y/Cloud Grey</model>
@@ -199,7 +199,7 @@
         <availability storeId="PP1" available="103"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>621990</price>
+      <price>608850</price>
     </offer>
     <offer sku="83D4007GRK">
       <model>Ноутбук Lenovo 83D4007GRK IdeaPad Pro 5 16IMH9 16&quot; 2K (2048x1280) OLED 120Hz/Intel Core Ultra 7 155H up to 4,8Ghz (16Cores)/Intel AI Boost/AI PC/16GB/1TB SSD/Integrated Intel Arc/Wi-Fi 6E/BT5.2/IR &amp; 1080p+ToF Sensor/BKLT/NoOS/1Y/Arctic Grey</model>
@@ -226,7 +226,7 @@
         <availability storeId="PP1" available="25"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>652090</price>
+      <price>652035</price>
     </offer>
     <offer sku="83TN000ERK">
       <model>Ноутбук Lenovo 83TN000ERK LOQ 15AHP11 15.3&quot; WUXGA (1920x1200) IPS 165Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/RGB Backlit/NoOS/1Y/Luna Grey</model>
@@ -235,7 +235,7 @@
         <availability storeId="PP1" available="60"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>649940</price>
+      <price>665990</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -424,7 +424,7 @@
         <availability storeId="PP1" available="45"/>
         <availability storeId="PP2" available="6"/>
       </availabilities>
-      <price>186850</price>
+      <price>186800</price>
     </offer>
     <offer sku="90NB0ZR1-M076S0">
       <model>Ноутбук Asus 90NB0ZR1-M076S0 Vivobook Go 15 E1504FA-BQ4412 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 40 up to 4.3GHz (4C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.3/720P HD Camera/NoOS/1Y/Cool Silver</model>
@@ -487,7 +487,7 @@
         <availability storeId="PP1" available="4"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>419940</price>
+      <price>419990</price>
     </offer>
     <offer sku="90NR0MZ6-M005K0">
       <model>Ноутбук Asus 90NR0MZ6-M005K0 TUF Gaming F16 FX607VJB-RL103 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX3050 6GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/NoOS/1Y/Mecha Gray</model>
@@ -523,7 +523,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="3"/>
       </availabilities>
-      <price>515939</price>
+      <price>515888</price>
     </offer>
     <offer sku="90NB17R1-M006M0">
       <model>Ноутбук Asus 90NB17R1-M006M0 Zenbook 14 UM3406GA-QD134 14&quot; WUXGA (1920 x 1200) OLED/AMD Ryzen™ AI 400/16GB/1TB SSD/AMDRadeonGraphics/Wi-Fi 6E/BT5.4/IR+FHD Camera/BKLT/NoOS/1Y/Jade Black</model>
@@ -541,7 +541,7 @@
         <availability storeId="PP1" available="118"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>628950</price>
+      <price>643990</price>
     </offer>
     <offer sku="90NR0NA1-M007N0">
       <model>Ноутбук Asus 90NR0NA1-M007N0 TUF Gaming F16 FX608JHR-RV144 16&quot; WUXGA(1920x1200) IPS 165Hz/Intel Core i5-14450HX up to 4.8GHz (10C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
@@ -550,7 +550,7 @@
         <availability storeId="PP1" available="71"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>648847</price>
+      <price>654990</price>
     </offer>
     <offer sku="90NR0NB1-M00DL0">
       <model>Ноутбук Asus 90NR0NB1-M00DL0 TUF Gaming F16 FX608JMI-TU253 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core i5-14450HX up to 4.8GHz (10C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
@@ -568,7 +568,7 @@
         <availability storeId="PP1" available="4"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>760920</price>
+      <price>760990</price>
     </offer>
     <offer sku="90NR0NG1-M007F0">
       <model>Ноутбук Asus 90NR0NG1-M007F0 TUF Gaming F16 FX608JPR-RV118 16&quot; WUXGA(1920x1200) IPS 165Hz/Intel Core i5-14450HX up to 4.8GHz (10C)/16GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/NoOS/1Y/Jaeger Gray</model>
@@ -595,7 +595,7 @@
         <availability storeId="PP1" available="24"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>949810</price>
+      <price>949750</price>
     </offer>
     <offer sku="90NR0LB1-M00EF0">
       <model>Ноутбук Asus 90NR0LB1-M00EF0 ROG Strix G16 G615JMR-S5324 16&quot; WQXGA(2560x1600) IPS 240Hz/Intel Core i7-14650HX 2,2Ghz (16Cores)/16GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/4Zone RGB BKLT/NoOS/1Y/Eclipse Gray</model>
@@ -613,7 +613,7 @@
         <availability storeId="PP1" available="1"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>1089950</price>
+      <price>1098990</price>
     </offer>
     <offer sku="90NR0L67-M001M0">
       <model>Ноутбук Asus 90NR0L67-M001M0 ROG Strix G16 G614PP-S5040 16&quot; WQXGA(2560x1600) IPS 240Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6E/BT5.3/1080P FHD Camera/4Zone RGB BKLT/NoOS/1Y/Eclipse Gray</model>
