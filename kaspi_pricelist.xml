@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-15 14:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-15 16:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -100,7 +100,7 @@
         <availability storeId="PP1" available="13"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>372048</price>
+      <price>372041</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -309,15 +309,6 @@
       </availabilities>
       <price>778990</price>
     </offer>
-    <offer sku="82WM00HMRK">
-      <model>Ноутбук Lenovo 82WM00HMRK Legion Pro 5 16ARX8 16&quot; WQXGA(2560x1600) IPS 165Hz/AMD Ryzen 7 7745HX 3,6Ghz (8C)/16GB/1TB SSD/NVIDIA GeForce RTX4060 8GB/Wi-Fi 6E/BT5.2/1080P HD Camera/4Zone RGB BKLT/NoOS/1Y/Onyx Grey</model>
-      <brand>Lenovo</brand>
-      <availabilities>
-        <availability storeId="PP1" available="1"/>
-        <availability storeId="PP2" available="0"/>
-      </availabilities>
-      <price>799990</price>
-    </offer>
     <offer sku="83JE01BPRK">
       <model>Ноутбук Lenovo 83JE01BPRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13645HX up to 4.9GHz (P), 3.5GHz (E) (14Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
       <brand>Lenovo</brand>
@@ -424,7 +415,7 @@
         <availability storeId="PP1" available="45"/>
         <availability storeId="PP2" available="3"/>
       </availabilities>
-      <price>186950</price>
+      <price>179940</price>
     </offer>
     <offer sku="90NB0ZR1-M076S0">
       <model>Ноутбук Asus 90NB0ZR1-M076S0 Vivobook Go 15 E1504FA-BQ4412 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 40 up to 4.3GHz (4C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.3/720P HD Camera/NoOS/1Y/Cool Silver</model>
