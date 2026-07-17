@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-17 14:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-17 15:47">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -316,7 +316,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>957928</price>
+      <price>957990</price>
     </offer>
     <offer sku="83JH003NRK">
       <model>Ноутбук Lenovo 83JH003NRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -335,15 +335,6 @@
         <availability storeId="PP2" available="0"/>
       </availabilities>
       <price>1025990</price>
-    </offer>
-    <offer sku="83LU003FRK">
-      <model>Ноутбук Lenovo 83LU003FRK Legion Pro 5 16IAX10H 16&quot; WQXGA(2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
-      <brand>Lenovo</brand>
-      <availabilities>
-        <availability storeId="PP1" available="1"/>
-        <availability storeId="PP2" available="0"/>
-      </availabilities>
-      <price>1406990</price>
     </offer>
     <offer sku="83DE004HRK">
       <model>Ноутбук Lenovo 83DE004HRK Legion Pro 7 16IRX9H 16&quot; WQXGA(2560x1600) IPS 240Hz/Intel Core i9-14900HX up to 5.8GHz (P), 4.1GHz (E) (24Cores)/32GB/1TB SSD/NVIDIA GeForce RTX4090 16GB/Wi-Fi 6E/BT5.3/1080P HD Camera/RGB Backlit PerKey/NoOS/1Y/Eclipse Black</model>
