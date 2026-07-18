@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-18 14:14">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-18 16:25">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -316,7 +316,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>957807</price>
+      <price>957785</price>
     </offer>
     <offer sku="83JH003NRK">
       <model>Ноутбук Lenovo 83JH003NRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/32GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -586,7 +586,7 @@
         <availability storeId="PP1" available="24"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>949990</price>
+      <price>949870</price>
     </offer>
     <offer sku="90NR0KV1-M00MS0">
       <model>Ноутбук Asus 90NR0KV1-M00MS0 TUF Gaming A16 FA608UMI-TU313W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -713,15 +713,6 @@
         <availability storeId="PP2" available="0"/>
       </availabilities>
       <price>379990</price>
-    </offer>
-    <offer sku="CL6U9EA">
-      <model>Ноутбук HP CL6U9EA Laptop 15-fc0252ci 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5625U up to 4,3Ghz (6C)/16GB/512GB/AMDRadeon Graphics/Wi-Fi 6/BT5.4/True Vision 720p HD/DOS/1Y/Natural silver</model>
-      <brand>HP</brand>
-      <availabilities>
-        <availability storeId="PP1" available="1"/>
-        <availability storeId="PP2" available="0"/>
-      </availabilities>
-      <price>279990</price>
     </offer>
     <offer sku="D14KGEA">
       <model>Ноутбук HP D14KGEA Laptop 15-fc0271ci 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 7520U up to 4,3Ghz 4Core/8GB/512GB/AMDRadeon Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Natural silver</model>
