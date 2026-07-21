@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-21 10:29">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-21 12:14">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -10,7 +10,7 @@
         <availability storeId="PP1" available="39"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>269390</price>
+      <price>269339</price>
     </offer>
     <offer sku="21KK0015RU">
       <model>Ноутбук Lenovo 21KK0015RU ThinkBook 16 G6 ABP 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 3 7330U 2,3Ghz Quad/8GB/256GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.3/IR &amp; 1080p/BKLT/FPR/NoOS/1Y/Arctic Grey</model>
@@ -73,7 +73,7 @@
         <availability storeId="PP1" available="1"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>318460</price>
+      <price>318407</price>
     </offer>
     <offer sku="82YY006HRU">
       <model>Ноутбук Lenovo 82YY006HRU Lenovo V15 G4 ABP 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5625U 2.3Ghz Hexa/8GB/512GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Business Black</model>
@@ -91,7 +91,7 @@
         <availability storeId="PP1" available="5"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>348961</price>
+      <price>348910</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -541,7 +541,7 @@
         <availability storeId="PP1" available="3"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>760522</price>
+      <price>760990</price>
     </offer>
     <offer sku="90NB14F1-M00ZU0">
       <model>Ноутбук Asus 90NB14F1-M00ZU0 Zenbook S 14 UX5406SA-QJ470W 14&quot; WUXGA (1920 x 1200) OLED/Intel Core Ultra 7 258V up to 4.8GHz (8C)/32GB/1TB SSD/Intel Arc Graphics/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zumaia Gray</model>
@@ -586,7 +586,7 @@
         <availability storeId="PP1" available="24"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>949690</price>
+      <price>949630</price>
     </offer>
     <offer sku="90NR0KV1-M00MS0">
       <model>Ноутбук Asus 90NR0KV1-M00MS0 TUF Gaming A16 FA608UMI-TU313W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
