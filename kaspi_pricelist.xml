@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-23 10:12">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-07-23 12:12">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -91,7 +91,7 @@
         <availability storeId="PP1" available="5"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>348703</price>
+      <price>348702</price>
     </offer>
     <offer sku="83K700UDRK">
       <model>Ноутбук Lenovo 83K700UDRK IdeaPad Slim 3 15ARP10 15.3&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 150 up to 4.55GHz (6C)/16GB/512GB/AMD Radeon 660M /Wi-Fi 6/BT5.3/720P HD Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -577,7 +577,7 @@
         <availability storeId="PP1" available="4"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>1715940</price>
+      <price>1715890</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -586,7 +586,7 @@
         <availability storeId="PP1" available="8"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>2064940</price>
+      <price>2064890</price>
     </offer>
     <offer sku="90NR0QK7-M009T0">
       <model>Ноутбук Asus 90NR0QK7-M009T0 ROG Strix G16 G614PW-TS186W 16&quot; WQXGA(2560x1600) IPS 300Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5080 16GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
