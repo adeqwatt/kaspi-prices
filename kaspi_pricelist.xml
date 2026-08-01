@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-07-31 18:11">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-08-01 12:04">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -127,7 +127,7 @@
         <availability storeId="PP1" available="44"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>531990</price>
+      <price>515490</price>
     </offer>
     <offer sku="83DC008RRK">
       <model>Ноутбук Lenovo 83DC008RRK IdeaPad Slim 5 16IMH9 16&quot; 2K (2048x1280) OLED 120Hz/Intel Core Ultra 7 155H up to 4,8Ghz (16Cores)/Intel AI Boost/16GB/512GB/Integrated Intel Arc/Wi-Fi 6E/BT5.2/IR &amp; 1080p+ToF Sensor/BKLT/NoOS/1Y/Cloud Grey</model>
@@ -406,7 +406,7 @@
         <availability storeId="PP1" available="36"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>752990</price>
+      <price>752100</price>
     </offer>
     <offer sku="90NB17R1-M00KM0">
       <model>Ноутбук Asus 90NB17R1-M00KM0 Zenbook 14 UM3406GA-QD294W 14&quot; WUXGA (1920 x 1200) OLED/AMD Ryzen AI 7 445 up to 4.6GHz (6C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Jade Black</model>
@@ -415,7 +415,7 @@
         <availability storeId="PP1" available="36"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>786990</price>
+      <price>786105</price>
     </offer>
     <offer sku="90NR0KW8-M007K0">
       <model>Ноутбук Asus 90NR0KW8-M007K0 ROG Strix G16 G614PM-S5138 16&quot; WQXGA(2560x1600) IPS 240Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.3/1080P FHD Camera/RGB Backlit PerKey/NoOS/1Y/Volt Green</model>
@@ -442,7 +442,7 @@
         <availability storeId="PP1" available="24"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>994757</price>
+      <price>994731</price>
     </offer>
     <offer sku="90NR0LB1-M00EF0">
       <model>Ноутбук Asus 90NR0LB1-M00EF0 ROG Strix G16 G615JMR-S5324 16&quot; WQXGA(2560x1600) IPS 240Hz/Intel Core i7-14650HX 2,2Ghz (16Cores)/16GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/4Zone RGB BKLT/NoOS/1Y/Eclipse Gray</model>
@@ -478,7 +478,7 @@
         <availability storeId="PP1" available="9"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>1229679</price>
+      <price>1229990</price>
     </offer>
     <offer sku="90NB16Q6-M00PK0">
       <model>Ноутбук Asus 90NB16Q6-M00PK0 Zenbook S 14 UX5406AA-SW046W 14&quot; 3К (2880 x 1800)  OLED 120Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/Intel Graphics/Wi-Fi 7/BT6.0/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Antrim Gray</model>
@@ -550,7 +550,7 @@
         <availability storeId="PP1" available="0"/>
         <availability storeId="PP2" available="7"/>
       </availabilities>
-      <price>439940</price>
+      <price>446265</price>
     </offer>
     <offer sku="CL6U8EA">
       <model>Ноутбук HP CL6U8EA OmniBook 7 Aero Laptop Next Gen AI 13-bg1011ci 13,3&quot; WUXGA(1920x1200) IPS/AMD Ryzen AI 5 340 up to 4,8Ghz 6Core/16GB/512GB/AMDRadeon 840M/Wi-Fi 6Е/BT5.3/5MP+IR/BKLT/Windows 11 Home/1Y/Glacier silver</model>
