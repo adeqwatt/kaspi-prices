@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-08-03 10:10">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-08-03 12:01">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -55,7 +55,7 @@
         <availability storeId="PP1" available="90"/>
         <availability storeId="PP2" available="3"/>
       </availabilities>
-      <price>324990</price>
+      <price>329770</price>
     </offer>
     <offer sku="82YY006HRU">
       <model>Ноутбук Lenovo 82YY006HRU Lenovo V15 G4 ABP 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5625U 2.3Ghz Hexa/8GB/512GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Business Black</model>
@@ -133,8 +133,8 @@
       <model>Ноутбук Lenovo 83DC008RRK IdeaPad Slim 5 16IMH9 16&quot; 2K (2048x1280) OLED 120Hz/Intel Core Ultra 7 155H up to 4,8Ghz (16Cores)/Intel AI Boost/16GB/512GB/Integrated Intel Arc/Wi-Fi 6E/BT5.2/IR &amp; 1080p+ToF Sensor/BKLT/NoOS/1Y/Cloud Grey</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability storeId="PP1" available="6"/>
-        <availability storeId="PP2" available="0"/>
+        <availability storeId="PP1" available="5"/>
+        <availability storeId="PP2" available="1"/>
       </availabilities>
       <price>534990</price>
     </offer>
@@ -244,7 +244,7 @@
         <availability storeId="PP1" available="8"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>792990</price>
+      <price>767890</price>
     </offer>
     <offer sku="83JE018FRK">
       <model>Ноутбук Lenovo 83JE018FRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13645HX up to 4.9GHz (P), 3.5GHz (E) (14Cores)/AI-Powered Gaming PC/16GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -271,7 +271,7 @@
         <availability storeId="PP1" available="7"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>959340</price>
+      <price>963340</price>
     </offer>
     <offer sku="83F00093RK">
       <model>Ноутбук Lenovo 83F00093RK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
@@ -313,10 +313,10 @@
       <model>Ноутбук Asus 90NB1541-M00AM0 Vivobook Go 15 E1504TA-BQ218 15.6&quot; FHD(1920x1080) IPS/Intel Processor N150 up to 3,6GHz (4C)/8GB/256GB/Intel UHD Graphics/Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Cool Silver</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability storeId="PP1" available="25"/>
-        <availability storeId="PP2" available="7"/>
+        <availability storeId="PP1" available="24"/>
+        <availability storeId="PP2" available="5"/>
       </availabilities>
-      <price>186950</price>
+      <price>179940</price>
     </offer>
     <offer sku="90NB0ZR1-M076S0">
       <model>Ноутбук Asus 90NB0ZR1-M076S0 Vivobook Go 15 E1504FA-BQ4412 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 40 up to 4.3GHz (4C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.3/720P HD Camera/NoOS/1Y/Cool Silver</model>
@@ -331,10 +331,10 @@
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability storeId="PP1" available="170"/>
-        <availability storeId="PP2" available="2"/>
+        <availability storeId="PP1" available="169"/>
+        <availability storeId="PP2" available="1"/>
       </availabilities>
-      <price>322990</price>
+      <price>329990</price>
     </offer>
     <offer sku="90NB1672-M009E0">
       <model>Ноутбук Asus 90NB1672-M009E0 Vivobook S16 S3607VA-RP132 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6/BT5.3/IR+FHD Camera/BKLT/NoOS/1Y/Matte Gray</model>
@@ -362,15 +362,6 @@
         <availability storeId="PP2" available="2"/>
       </availabilities>
       <price>517990</price>
-    </offer>
-    <offer sku="90NR0JF7-M00V30">
-      <model>Ноутбук Asus 90NR0JF7-M00V30 TUF Gaming A15 FA506NCG-HN371W 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 8845H up to 5.1GHz (8C)/16GB/512GB/NVIDIA GeForce RTX3050 4GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/Windows 11 Home/1Y/Graphite Black</model>
-      <brand>Asus</brand>
-      <availabilities>
-        <availability storeId="PP1" available="24"/>
-        <availability storeId="PP2" available="0"/>
-      </availabilities>
-      <price>598990</price>
     </offer>
     <offer sku="90NB17V1-M00A20">
       <model>Ноутбук Asus 90NB17V1-M00A20 Vivobook 17 X1704MA-AU218W 17.3&apos;&apos; FHD(1920x1080) IPS/Intel Core 5 320 up to 4.6GhHz (6C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.3/720P HD Camera/BKLT/Windows 11 Home/1Y/Cool Silver</model>
@@ -403,7 +394,7 @@
       <model>Ноутбук Asus 90NB14W2-M02F50 Zenbook 14 UX3405CA-QD1704W 14&quot; WUXGA (1920 x 1200) OLED/Intel Core Ultra 5 225H up to 4.9 GHz (14C)/16GB/512GB/Intel Arc Graphics/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Foggy Silver</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability storeId="PP1" available="36"/>
+        <availability storeId="PP1" available="35"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
       <price>752100</price>
@@ -442,7 +433,7 @@
         <availability storeId="PP1" available="24"/>
         <availability storeId="PP2" available="0"/>
       </availabilities>
-      <price>994557</price>
+      <price>994555</price>
     </offer>
     <offer sku="90NR0LB1-M00EF0">
       <model>Ноутбук Asus 90NR0LB1-M00EF0 ROG Strix G16 G615JMR-S5324 16&quot; WQXGA(2560x1600) IPS 240Hz/Intel Core i7-14650HX 2,2Ghz (16Cores)/16GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/4Zone RGB BKLT/NoOS/1Y/Eclipse Gray</model>
@@ -538,8 +529,8 @@
       <model>Ноутбук HP D18P8EA HP Laptop 15-fd0325ci 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 120U up to 5,0 Ghz 10Core/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Chalkboard gray</model>
       <brand>HP</brand>
       <availabilities>
-        <availability storeId="PP1" available="24"/>
-        <availability storeId="PP2" available="11"/>
+        <availability storeId="PP1" available="23"/>
+        <availability storeId="PP2" available="4"/>
       </availabilities>
       <price>292990</price>
     </offer>
@@ -556,8 +547,8 @@
       <model>Ноутбук HP CL6U8EA OmniBook 7 Aero Laptop Next Gen AI 13-bg1011ci 13,3&quot; WUXGA(1920x1200) IPS/AMD Ryzen AI 5 340 up to 4,8Ghz 6Core/16GB/512GB/AMDRadeon 840M/Wi-Fi 6Е/BT5.3/5MP+IR/BKLT/Windows 11 Home/1Y/Glacier silver</model>
       <brand>HP</brand>
       <availabilities>
-        <availability storeId="PP1" available="15"/>
-        <availability storeId="PP2" available="0"/>
+        <availability storeId="PP1" available="14"/>
+        <availability storeId="PP2" available="1"/>
       </availabilities>
       <price>519990</price>
     </offer>
@@ -575,7 +566,7 @@
       <brand>HP</brand>
       <availabilities>
         <availability storeId="PP1" available="46"/>
-        <availability storeId="PP2" available="0"/>
+        <availability storeId="PP2" available="2"/>
       </availabilities>
       <price>706990</price>
     </offer>
