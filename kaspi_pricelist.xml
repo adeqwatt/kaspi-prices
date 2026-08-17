@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-08-17 15:13">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-08-17 16:10">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -172,7 +172,7 @@
         <availability available="yes" storeId="PP1" stockCount="19"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>608340</price>
+      <price>608290</price>
     </offer>
     <offer sku="83D4007GRK">
       <model>Ноутбук Lenovo 83D4007GRK IdeaPad Pro 5 16IMH9 16&quot; 2K (2048x1280) OLED 120Hz/Intel Core Ultra 7 155H up to 4,8Ghz (16Cores)/Intel AI Boost/AI PC/16GB/1TB SSD/Integrated Intel Arc/Wi-Fi 6E/BT5.2/IR &amp; 1080p+ToF Sensor/BKLT/NoOS/1Y/Arctic Grey</model>
@@ -208,7 +208,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>664910</price>
+      <price>664844</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -244,7 +244,7 @@
         <availability available="yes" storeId="PP1" stockCount="44"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>759735</price>
+      <price>759684</price>
     </offer>
     <offer sku="83JE016KRK">
       <model>Ноутбук Lenovo 83JE016KRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13650HX up to 4.9GHz (P), 3.6GHz (E) (14Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="19"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>793735</price>
+      <price>793684</price>
     </offer>
     <offer sku="83JH009FRK">
       <model>Ноутбук Lenovo 83JH009FRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -352,7 +352,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="yes" storeId="PP2" stockCount="5"/>
       </availabilities>
-      <price>292889</price>
+      <price>292838</price>
     </offer>
     <offer sku="90NB10T2-M01TH0">
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
@@ -406,7 +406,7 @@
         <availability available="yes" storeId="PP1" stockCount="27"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>739515</price>
+      <price>734809</price>
     </offer>
     <offer sku="90NB17R1-M00KM0">
       <model>Ноутбук Asus 90NB17R1-M00KM0 Zenbook 14 UM3406GA-QD294W 14&quot; WUXGA (1920 x 1200) OLED/AMD Ryzen AI 7 445 up to 4.6GHz (6C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Jade Black</model>
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="PP1" stockCount="30"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>772945</price>
+      <price>767998</price>
     </offer>
     <offer sku="90NR0KS1-M00K30">
       <model>Ноутбук Asus 90NR0KS1-M00K30 TUF Gaming A16 FA608UHI-TU252W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 3.8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -478,7 +478,7 @@
         <availability available="yes" storeId="PP1" stockCount="24"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1028309</price>
+      <price>1028258</price>
     </offer>
     <offer sku="90NR0KW8-M00DU0">
       <model>Ноутбук Asus 90NR0KW8-M00DU0 ROG Strix G16 G614PM-TS276W 16&quot; WQXGA(2560x1600) IPS 300Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.3/1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Volt Green</model>
