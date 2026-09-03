@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 11:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 11:20">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -136,7 +136,7 @@
         <availability available="yes" storeId="PP1" stockCount="77"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>535801</price>
+      <price>535798</price>
     </offer>
     <offer sku="83RR00HKRK">
       <model>Ноутбук Lenovo 83RR00HKRK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 5 320 up to 4.6GHZ (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -245,15 +245,6 @@
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>792990</price>
-    </offer>
-    <offer sku="83JH009FRK">
-      <model>Ноутбук Lenovo 83JH009FRK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i7-14700HX up to 5.5GHz (P), 3.9GHz (E) (20Cores)/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
-      <brand>Lenovo</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-        <availability available="yes" storeId="PP2" stockCount="1"/>
-      </availabilities>
-      <price>848990</price>
     </offer>
     <offer sku="83QS004CRK">
       <model>Ноутбук Lenovo 83QS004CRK Yoga Slim 7 14AGP11 14&quot; WUXGA (1920x1200) Touch OLED/AMD Ryzen AI 7 445 up to 4.6GHz (6C)/Integrated AMD Ryzen AI/16GB/1TB SSD/AMD Radeon 840M /Wi-Fi 7/BT5.4/5MP+IR/BKLT/Windows 11 Home/1Y/Tidal Teal</model>
@@ -494,7 +485,7 @@
       <brand>HP</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="16"/>
-        <availability available="yes" storeId="PP2" stockCount="1"/>
+        <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>828990</price>
     </offer>
