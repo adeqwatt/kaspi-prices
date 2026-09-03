@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 18:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 19:08">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -64,7 +64,7 @@
         <availability available="yes" storeId="PP1" stockCount="72"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>353276</price>
+      <price>353225</price>
     </offer>
     <offer sku="82XQ01SJRK">
       <model>Ноутбук Lenovo 82XQ01SJRK IdeaPad Slim 3 15AMN8 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 40 up to 4.3GHz (4Core)/8GB/512GB/AMD Radeon 610M /Wi-Fi 6/BT5.2/720P HD Camera/Windows 11 Home/1Y/Arctic Grey</model>
@@ -136,7 +136,7 @@
         <availability available="yes" storeId="PP1" stockCount="77"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>535558</price>
+      <price>535496</price>
     </offer>
     <offer sku="83RR00HKRK">
       <model>Ноутбук Lenovo 83RR00HKRK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 5 320 up to 4.6GHZ (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -190,7 +190,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>665418</price>
+      <price>665366</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="13"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1026440</price>
+      <price>1026390</price>
     </offer>
     <offer sku="83F00093RK">
       <model>Ноутбук Lenovo 83F00093RK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
@@ -397,7 +397,7 @@
         <availability available="yes" storeId="PP1" stockCount="38"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1293382</price>
+      <price>1293331</price>
     </offer>
     <offer sku="90NR0QL2-M00950">
       <model>Ноутбук Asus 90NR0QL2-M00950 ROG Zephyrus G14 GA403GM-SY193W 14&quot; 3К (2880 x 1800)  OLED 120Hz/AMD Ryzen AI 9 465 up to 5.0GHz (10C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -406,7 +406,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1677735</price>
+      <price>1677682</price>
     </offer>
     <offer sku="90NR0M21-M007B0">
       <model>Ноутбук Asus 90NR0M21-M007B0 ROG Zephyrus G16 GU605CM-QR104W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 7 255H up to 5.1 GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1719740</price>
+      <price>1719690</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
