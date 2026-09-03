@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 05:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-03 06:08">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -316,7 +316,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>2898990</price>
+      <price>2878838</price>
     </offer>
     <offer sku="90NB10T2-M01TH0">
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
@@ -334,7 +334,7 @@
         <availability available="yes" storeId="PP1" stockCount="28"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>603990</price>
+      <price>585090</price>
     </offer>
     <offer sku="90NB14W2-M02F50">
       <model>Ноутбук Asus 90NB14W2-M02F50 Zenbook 14 UX3405CA-QD1704W 14&quot; WUXGA (1920 x 1200) OLED/Intel Core Ultra 5 225H up to 4.9 GHz (14C)/16GB/512GB/Intel Arc Graphics/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Foggy Silver</model>
@@ -343,7 +343,7 @@
         <availability available="yes" storeId="PP1" stockCount="27"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>752990</price>
+      <price>730728</price>
     </offer>
     <offer sku="90NB17R1-M00KM0">
       <model>Ноутбук Asus 90NB17R1-M00KM0 Zenbook 14 UM3406GA-QD294W 14&quot; WUXGA (1920 x 1200) OLED/AMD Ryzen AI 7 445 up to 4.6GHz (6C)/16GB/512GB/AMDRadeonGraphics/Wi-Fi 6E/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Jade Black</model>
@@ -352,7 +352,7 @@
         <availability available="yes" storeId="PP1" stockCount="28"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>786990</price>
+      <price>764665</price>
     </offer>
     <offer sku="90NR0KS1-M00K30">
       <model>Ноутбук Asus 90NR0KS1-M00K30 TUF Gaming A16 FA608UHI-TU252W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 3.8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -361,7 +361,7 @@
         <availability available="yes" storeId="PP1" stockCount="45"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>899990</price>
+      <price>871190</price>
     </offer>
     <offer sku="90NR0NM1-M005M0">
       <model>Ноутбук Asus 90NR0NM1-M005M0 TUF Gaming A18 FA808UH-S8058W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -370,7 +370,7 @@
         <availability available="yes" storeId="PP1" stockCount="36"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>955990</price>
+      <price>925690</price>
     </offer>
     <offer sku="90NR0KV1-M00MS0">
       <model>Ноутбук Asus 90NR0KV1-M00MS0 TUF Gaming A16 FA608UMI-TU313W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -379,7 +379,7 @@
         <availability available="yes" storeId="PP1" stockCount="24"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>996990</price>
+      <price>949190</price>
     </offer>
     <offer sku="90NR0NN1-M008L0">
       <model>Ноутбук Asus 90NR0NN1-M008L0 TUF Gaming A18 FA808UM-S8146W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -388,7 +388,7 @@
         <availability available="yes" storeId="PP1" stockCount="20"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1035990</price>
+      <price>1003490</price>
     </offer>
     <offer sku="90NR0NB1-M00S20">
       <model>Ноутбук Asus 90NR0NB1-M00S20 TUF Gaming F16 FX608JMI-TU424W 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core i7-14650HX 2.2Ghz (16Cores)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -397,7 +397,7 @@
         <availability available="yes" storeId="PP1" stockCount="24"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1044990</price>
+      <price>1012090</price>
     </offer>
     <offer sku="90NR0KW8-M00DU0">
       <model>Ноутбук Asus 90NR0KW8-M00DU0 ROG Strix G16 G614PM-TS276W 16&quot; WQXGA(2560x1600) IPS 300Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.3/1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Volt Green</model>
@@ -406,7 +406,7 @@
         <availability available="yes" storeId="PP1" stockCount="26"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1181990</price>
+      <price>1152651</price>
     </offer>
     <offer sku="90NB17W1-M007C0">
       <model>Ноутбук Asus 90NB17W1-M007C0 Zenbook A16 UX3607OA-SQ013W  16&quot; 3K (2880 x 1800) OLED 120Hz/Snapdragon X2 Elite Extreme up to 4.4GHz (18C)/48GB/1TB SSD/Qualcomm Adreno GPU/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zabriskie Beige</model>
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="PP1" stockCount="38"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1322990</price>
+      <price>1303946</price>
     </offer>
     <offer sku="90NR0QL2-M00950">
       <model>Ноутбук Asus 90NR0QL2-M00950 ROG Zephyrus G14 GA403GM-SY193W 14&quot; 3К (2880 x 1800)  OLED 120Hz/AMD Ryzen AI 9 465 up to 5.0GHz (10C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -424,7 +424,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1687990</price>
+      <price>1678255</price>
     </offer>
     <offer sku="90NR0M21-M007B0">
       <model>Ноутбук Asus 90NR0M21-M007B0 ROG Zephyrus G16 GU605CM-QR104W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 7 255H up to 5.1 GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -433,7 +433,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1735990</price>
+      <price>1716990</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -442,7 +442,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>2087990</price>
+      <price>2022190</price>
     </offer>
     <offer sku="90NR0PC1-M00760">
       <model>Ноутбук Asus 90NR0PC1-M00760 ROG Zephyrus G16 GU606AR-TB054W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT6.0/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -451,7 +451,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>2274990</price>
+      <price>2273745</price>
     </offer>
     <offer sku="CW2U5EA">
       <model>Ноутбук HP CW2U5EA Victus Gaming Laptop 15 -fb3072ci 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 7445H up to 4,7GHz 6 Cores/16GB/512GB/NVIDIA GeForce RTX3050 4GB/Wi-Fi 6/BT5.4/HP Wide Vision 720p/BKLT/DOS/1Y/Mica silver, black chrome logo</model>
