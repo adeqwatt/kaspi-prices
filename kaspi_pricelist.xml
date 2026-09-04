@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-04 11:43">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-04 12:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -190,7 +190,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>665054</price>
+      <price>665002</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -388,7 +388,7 @@
         <availability available="yes" storeId="PP1" stockCount="38"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1293127</price>
+      <price>1291490</price>
     </offer>
     <offer sku="90NR0QL2-M00950">
       <model>Ноутбук Asus 90NR0QL2-M00950 ROG Zephyrus G14 GA403GM-SY193W 14&quot; 3К (2880 x 1800)  OLED 120Hz/AMD Ryzen AI 9 465 up to 5.0GHz (10C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -397,7 +397,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1677292</price>
+      <price>1677290</price>
     </offer>
     <offer sku="90NR0M21-M007B0">
       <model>Ноутбук Asus 90NR0M21-M007B0 ROG Zephyrus G16 GU605CM-QR104W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 7 255H up to 5.1 GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -424,7 +424,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>2215105</price>
+      <price>2207970</price>
     </offer>
     <offer sku="CL6U8EA">
       <model>Ноутбук HP CL6U8EA OmniBook 7 Aero Laptop Next Gen AI 13-bg1011ci 13,3&quot; WUXGA(1920x1200) IPS/AMD Ryzen AI 5 340 up to 4,8Ghz 6Core/16GB/512GB/AMDRadeon 840M/Wi-Fi 6Е/BT5.3/5MP+IR/BKLT/Windows 11 Home/1Y/Glacier silver</model>
