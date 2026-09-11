@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-11 15:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-11 16:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -46,7 +46,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="3"/>
       </availabilities>
-      <price>369442</price>
+      <price>369386</price>
     </offer>
     <offer sku="82XQ01SKRK">
       <model>Ноутбук Lenovo 82XQ01SKRK IdeaPad Slim 3 15AMN8 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 3 30 up to 4.1GHz (4C)/8GB/512GB/AMD Radeon 610M /Wi-Fi 6/BT5.2/720P HD Camera/Windows 11 Home/1Y/Arctic Grey</model>
@@ -145,7 +145,7 @@
         <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>614190</price>
+      <price>633990</price>
     </offer>
     <offer sku="83RR00HARK">
       <model>Ноутбук Lenovo 83RR00HARK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 7 350 up to 4.8GHz (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -163,7 +163,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>662558</price>
+      <price>662506</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -172,7 +172,7 @@
         <availability available="yes" storeId="PP1" stockCount="16"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>676546</price>
+      <price>676489</price>
     </offer>
     <offer sku="83JH00DERK">
       <model>Ноутбук Lenovo 83JH00DERK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i5-13450HX up to 4.6GHz (P), 3.4GHz (E) (10Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -217,7 +217,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>946990</price>
+      <price>932390</price>
     </offer>
     <offer sku="83JE01K5RK">
       <model>Ноутбук Lenovo 83JE01K5RK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13645HX up to 4.9GHz (P), 3.5GHz (E) (14Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/Windows 11 Home/1Y/Luna Grey</model>
@@ -226,7 +226,7 @@
         <availability available="yes" storeId="PP1" stockCount="13"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1009690</price>
+      <price>1009640</price>
     </offer>
     <offer sku="83F00093RK">
       <model>Ноутбук Lenovo 83F00093RK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
@@ -259,7 +259,7 @@
       <model>Ноутбук Asus 90NB10T2-M01TH0 Vivobook 15 X1502VA-BQ1274 15.6&quot; FHD(1920x1080) IPS/Intel Core i5-13420H up to 4.6GHz (8C)/16GB/512GB/Intel UHD Graphics/Wi-Fi 6E/BT5.3/720P HD Camera/BKLT/NoOS/1Y/Cool Silver</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="47"/>
+        <availability available="yes" storeId="PP1" stockCount="46"/>
         <availability available="yes" storeId="PP2" stockCount="10"/>
       </availabilities>
       <price>359990</price>
@@ -385,7 +385,7 @@
       <model>Ноутбук HP C0BN6EA OMEN Gaming Laptop 16-am0052ci 16&quot; WUXGA (1920x1200) IPS 60-144Hz/Intel Core i7-14650HX up to 5,2Ghz 16Core/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.4/HP TrueVision FHD 1080p/4Zone RGB BKLT/DOS/1Y/Dark grey</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="10"/>
+        <availability available="yes" storeId="PP1" stockCount="9"/>
         <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
       <price>659990</price>
