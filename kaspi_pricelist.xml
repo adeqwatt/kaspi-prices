@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-18 17:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-18 18:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -38,15 +38,6 @@
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>301290</price>
-    </offer>
-    <offer sku="83K2000WRK">
-      <model>Ноутбук Lenovo 83K2000WRK IdeaPad Slim 3 16IRH10 16&quot; WUXGA (1920x1200) IPS/Intel Core i5-13420H up to 4.6GHz (P), 3.4GHz (E) (8Cores)/16GB/512GB/Integrated Intel UHD /Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Luna Grey</model>
-      <brand>Lenovo</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-        <availability available="yes" storeId="PP2" stockCount="1"/>
-      </availabilities>
-      <price>369778</price>
     </offer>
     <offer sku="82XQ01SKRK">
       <model>Ноутбук Lenovo 82XQ01SKRK IdeaPad Slim 3 15AMN8 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 3 30 up to 4.1GHz (4C)/8GB/512GB/AMD Radeon 610M /Wi-Fi 6/BT5.2/720P HD Camera/Windows 11 Home/1Y/Arctic Grey</model>
@@ -163,7 +154,7 @@
         <availability available="yes" storeId="PP1" stockCount="14"/>
         <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
-      <price>670635</price>
+      <price>670578</price>
     </offer>
     <offer sku="83JH00DERK">
       <model>Ноутбук Lenovo 83JH00DERK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i5-13450HX up to 4.6GHz (P), 3.4GHz (E) (10Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -217,7 +208,7 @@
         <availability available="yes" storeId="PP1" stockCount="13"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1006290</price>
+      <price>1006240</price>
     </offer>
     <offer sku="83F00093RK">
       <model>Ноутбук Lenovo 83F00093RK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
@@ -253,7 +244,7 @@
         <availability available="yes" storeId="PP1" stockCount="19"/>
         <availability available="yes" storeId="PP2" stockCount="20"/>
       </availabilities>
-      <price>361879</price>
+      <price>361828</price>
     </offer>
     <offer sku="90NB14W2-M02F50">
       <model>Ноутбук Asus 90NB14W2-M02F50 Zenbook 14 UX3405CA-QD1704W 14&quot; WUXGA (1920 x 1200) OLED/Intel Core Ultra 5 225H up to 4.9 GHz (14C)/16GB/512GB/Intel Arc Graphics/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Foggy Silver</model>
@@ -415,7 +406,7 @@
         <availability available="yes" storeId="PP1" stockCount="16"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1145123</price>
+      <price>1145072</price>
     </offer>
     <offer sku="E1SF2EA">
       <model>Ноутбук HP E1SF2EA OmniBook Ultra Laptop Next Gen AI 14-kd0021ci 14&quot; 3K UWVA (2880 x 1800) Touch OLED/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/Intel Graphics/Wi-Fi 7/BT6.0/5MP+IR/BKLT/Windows 11 Home/1Y/Silk sand aluminum</model>
