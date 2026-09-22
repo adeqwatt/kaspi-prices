@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-22 13:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-22 14:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -61,7 +61,7 @@
       <model>Ноутбук Lenovo 83GW00AAFW Lenovo V15 G5 IRL 15.6&quot; FHD(1920x1080) IPS/Intel Core i7-13620H up to 4.9GHz (P), 3.6GHz (E) (10Cores)/16GB/512GB/Integrated Intel UHD /Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Business Black</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>425990</price>
@@ -208,7 +208,7 @@
         <availability available="yes" storeId="PP1" stockCount="13"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1005540</price>
+      <price>1005490</price>
     </offer>
     <offer sku="83F00093RK">
       <model>Ноутбук Lenovo 83F00093RK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel AI /AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Eclipse Black</model>
@@ -343,7 +343,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1691968</price>
+      <price>1691908</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -406,7 +406,7 @@
         <availability available="yes" storeId="PP1" stockCount="16"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1140581</price>
+      <price>1140530</price>
     </offer>
     <offer sku="E1SF2EA">
       <model>Ноутбук HP E1SF2EA OmniBook Ultra Laptop Next Gen AI 14-kd0021ci 14&quot; 3K UWVA (2880 x 1800) Touch OLED/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/Intel Graphics/Wi-Fi 7/BT6.0/5MP+IR/BKLT/Windows 11 Home/1Y/Silk sand aluminum</model>
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="PP1" stockCount="19"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1141725</price>
+      <price>1146800</price>
     </offer>
     <offer sku="D5FJ8EA">
       <model>Системный блок HP D5FJ8EA OmniDesk Desktop M02-0006ci PC Intel Core i3-14100 up to 4.7GHz (4C)/8GB/512GB/Integrated/USB mouse+keyboard/Wi-Fi 6/BT5.4/DOS/1Y/Meteor Silver</model>
@@ -424,7 +424,7 @@
         <availability available="yes" storeId="PP1" stockCount="97"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>387961</price>
+      <price>387910</price>
     </offer>
     <offer sku="7Y0F3EA">
       <model>Моноблок HP 7Y0F3EA HP 27 inch All-in-One 27-cr0037ci PC 27&apos;&apos; FHD (1920 x 1080)/Intel Core i3-1315U up to 4.5GHz (6C)/8GB/512GB/Intel UHD Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/USB mouse+keyboard/DOS/1Y/Black</model>
