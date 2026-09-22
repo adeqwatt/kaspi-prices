@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-22 23:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-23 00:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -343,7 +343,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1691668</price>
+      <price>1691608</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -424,7 +424,7 @@
         <availability available="yes" storeId="PP1" stockCount="97"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>387799</price>
+      <price>387850</price>
     </offer>
     <offer sku="7Y0F3EA">
       <model>Моноблок HP 7Y0F3EA HP 27 inch All-in-One 27-cr0037ci PC 27&apos;&apos; FHD (1920 x 1080)/Intel Core i3-1315U up to 4.5GHz (6C)/8GB/512GB/Intel UHD Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/USB mouse+keyboard/DOS/1Y/Black</model>
@@ -451,7 +451,7 @@
         <availability available="yes" storeId="PP1" stockCount="9"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1156964</price>
+      <price>1157024</price>
     </offer>
     <offer sku="E1XS0EA">
       <model>Моноблок HP E1XS0EA HP OmniStudio X All-in-One Desktop Next Gen AI 27-cx0015ci 27&apos;&apos; QHD (2560 x 1440) IPS 120Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5050 8GB/Wi-Fi 7/BT6.0/5MP+IR Camera/Wireless mouse+keyboard/Windows 11 Home/1Y/Eclipse gray</model>
