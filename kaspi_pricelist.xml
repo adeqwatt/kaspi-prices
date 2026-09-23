@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-23 20:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-23 21:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -127,7 +127,7 @@
         <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>628633</price>
+      <price>628581</price>
     </offer>
     <offer sku="83RR00HARK">
       <model>Ноутбук Lenovo 83RR00HARK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 7 350 up to 4.8GHz (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -325,7 +325,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1681364</price>
+      <price>1681313</price>
     </offer>
     <offer sku="90NR0M21-M007B0">
       <model>Ноутбук Asus 90NR0M21-M007B0 ROG Zephyrus G16 GU605CM-QR104W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 7 255H up to 5.1 GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -334,7 +334,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1691128</price>
+      <price>1691068</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -397,7 +397,7 @@
         <availability available="yes" storeId="PP1" stockCount="15"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1145582</price>
+      <price>1145531</price>
     </offer>
     <offer sku="E1SF2EA">
       <model>Ноутбук HP E1SF2EA OmniBook Ultra Laptop Next Gen AI 14-kd0021ci 14&quot; 3K UWVA (2880 x 1800) Touch OLED/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/Intel Graphics/Wi-Fi 7/BT6.0/5MP+IR/BKLT/Windows 11 Home/1Y/Silk sand aluminum</model>
@@ -442,7 +442,7 @@
         <availability available="yes" storeId="PP1" stockCount="9"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1156853</price>
+      <price>1156793</price>
     </offer>
     <offer sku="E1XS0EA">
       <model>Моноблок HP E1XS0EA HP OmniStudio X All-in-One Desktop Next Gen AI 27-cx0015ci 27&apos;&apos; QHD (2560 x 1440) IPS 120Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5050 8GB/Wi-Fi 7/BT6.0/5MP+IR Camera/Wireless mouse+keyboard/Windows 11 Home/1Y/Eclipse gray</model>
