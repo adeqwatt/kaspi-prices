@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-30 12:09">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-30 13:09">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -91,7 +91,7 @@
         <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>590677</price>
+      <price>590626</price>
     </offer>
     <offer sku="83RR00HARK">
       <model>Ноутбук Lenovo 83RR00HARK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 7 350 up to 4.8GHz (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -217,7 +217,7 @@
         <availability available="yes" storeId="PP1" stockCount="216"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>497680</price>
+      <price>497630</price>
     </offer>
     <offer sku="90NB17I2-M01M20">
       <model>Ноутбук Asus 90NB17I2-M01M20 Vivobook 15 X1504MA-BQ257W 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 320 up to 4.6GhHz (6C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.3/720P HD Camera/BKLT/Windows 11 Home/1Y/Cool Silver</model>
@@ -316,7 +316,7 @@
         <availability available="yes" storeId="PP1" stockCount="26"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1096990</price>
+      <price>1293258</price>
     </offer>
     <offer sku="90NB1861-M004K0">
       <model>Ноутбук Asus 90NB1861-M004K0 ProArt PZ14 HT7407NA-SN096X 14&quot; 3K (2880 x 1800) Touch OLED 144Hz/Snapdragon X2 Elite up to 4.0GHz (18C)/16GB/512GB/Qualcomm Adreno GPU/Wi-Fi 7/BT6.0/Front 8.0M camera + IR, Rear 13.0M Ultra HD/BKLT/Windows 11 Pro/1Y/Nano Black</model>
@@ -496,7 +496,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="11"/>
       </availabilities>
-      <price>277891</price>
+      <price>277880</price>
     </offer>
     <offer sku="D14QYEA">
       <model>Ноутбук HP D14QYEA Laptop 15-fc0310ci 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 7520U up to 4,3Ghz 4Core/8GB/1TB SSD/AMDRadeon Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Natural silver</model>
@@ -505,7 +505,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
-      <price>294969</price>
+      <price>294918</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
