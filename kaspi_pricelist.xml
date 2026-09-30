@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-30 11:45">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-09-30 12:00">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -25,7 +25,7 @@
       <model>Ноутбук Lenovo 82YY006HRU Lenovo V15 G4 ABP 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5625U 2.3Ghz Hexa/8GB/512GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.2/720P HD Camera/NoOS/1Y/Business Black</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="72"/>
+        <availability available="yes" storeId="PP1" stockCount="67"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>277990</price>
@@ -91,7 +91,7 @@
         <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>590727</price>
+      <price>590726</price>
     </offer>
     <offer sku="83RR00HARK">
       <model>Ноутбук Lenovo 83RR00HARK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 7 350 up to 4.8GHz (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -136,7 +136,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>663990</price>
+      <price>711990</price>
     </offer>
     <offer sku="83JE016KRK">
       <model>Ноутбук Lenovo 83JE016KRK LOQ 15IRX10 15.6&quot; FHD(1920x1080) IPS 144Hz/Intel Core i7-13650HX up to 4.9GHz (P), 3.6GHz (E) (14Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.2/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -404,7 +404,7 @@
       <brand>HP</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="13"/>
-        <availability available="yes" storeId="PP2" stockCount="2"/>
+        <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
       <price>719990</price>
     </offer>
@@ -412,7 +412,7 @@
       <model>Ноутбук HP C0DS0EA OMEN Gaming Laptop 16-am0043ci 16&quot; WUXGA (1920x1200) IPS 60-144Hz/Intel Core i7-14650HX up to 5,2Ghz 16Core/16GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 6/BT5.4/HP TrueVision FHD 1080p/4Zone RGB BKLT/DOS/1Y/Dark grey</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="7"/>
+        <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
       <price>829990</price>
@@ -448,7 +448,7 @@
       <model>Системный блок HP D5FJ8EA OmniDesk Desktop M02-0006ci PC Intel Core i3-14100 up to 4.7GHz (4C)/8GB/512GB/Integrated/USB mouse+keyboard/Wi-Fi 6/BT5.4/DOS/1Y/Meteor Silver</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15"/>
+        <availability available="yes" storeId="PP1" stockCount="65"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>363990</price>
@@ -466,7 +466,7 @@
       <model>Моноблок HP D74N1EA OmniStudio All-in-One Desktop 27-cu0019ci PC 27&apos;&apos; FHD (1920 x 1080) IPS 100Hz/Intel Core 7 240H up to 5,2Ghz (10Cores)/16GB/512GB/Integrated/Wi-Fi 6/BT5.4/1080P FHD Camera/USB mouse+keyboard/DOS/1Y/Cotton white</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="7"/>
+        <availability available="yes" storeId="PP1" stockCount="32"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>653990</price>
@@ -505,7 +505,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
-      <price>295020</price>
+      <price>294969</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
