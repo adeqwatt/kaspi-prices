@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-05 10:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-05 11:08">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -53,7 +53,7 @@
       <brand>Lenovo</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
-        <availability available="yes" storeId="PP2" stockCount="1"/>
+        <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>439990</price>
     </offer>
@@ -91,7 +91,7 @@
         <availability available="yes" storeId="PP1" stockCount="6"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>588524</price>
+      <price>588473</price>
     </offer>
     <offer sku="83RR00HARK">
       <model>Ноутбук Lenovo 83RR00HARK IdeaPad Slim 3 15IWC11 15.3&quot; WUXGA (1920x1200) IPS/Intel Core 7 350 up to 4.8GHz (6C)/AI PC/16GB/512GB/Integrated Intel Graphics/Wi-Fi 6/BT5.3/5MP Camera/Windows 11 Home/1Y/Luna Grey</model>
@@ -118,7 +118,7 @@
         <availability available="yes" storeId="PP1" stockCount="14"/>
         <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
-      <price>632236</price>
+      <price>632185</price>
     </offer>
     <offer sku="83JH00DERK">
       <model>Ноутбук Lenovo 83JH00DERK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i5-13450HX up to 4.6GHz (P), 3.4GHz (E) (10Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -244,7 +244,7 @@
         <availability available="yes" storeId="PP1" stockCount="24"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>669226</price>
+      <price>669175</price>
     </offer>
     <offer sku="90NB14W2-M02F50">
       <model>Ноутбук Asus 90NB14W2-M02F50 Zenbook 14 UX3405CA-QD1704W 14&quot; WUXGA (1920 x 1200) OLED/Intel Core Ultra 5 225H up to 4.9 GHz (14C)/16GB/512GB/Intel Arc Graphics/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Foggy Silver</model>
@@ -325,7 +325,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1592480</price>
+      <price>1592470</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -478,7 +478,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
-      <price>293156</price>
+      <price>293105</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
