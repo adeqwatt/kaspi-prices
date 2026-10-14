@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-14 11:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-14 12:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="20"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1308497</price>
+      <price>1278242</price>
     </offer>
     <offer sku="90NB17W1-M007C0">
       <model>Ноутбук Asus 90NB17W1-M007C0 Zenbook A16 UX3607OA-SQ013W  16&quot; 3K (2880 x 1800) OLED 120Hz/Snapdragon X2 Elite Extreme up to 4.4GHz (18C)/48GB/1TB SSD/Qualcomm Adreno GPU/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zabriskie Beige</model>
@@ -433,7 +433,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>309950</price>
+      <price>302783</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
