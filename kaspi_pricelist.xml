@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-16 18:06">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 10:06">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -7,7 +7,7 @@
       <model>Ноутбук Lenovo 21KK0015RU ThinkBook 16 G6 ABP 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 3 7330U 2,3Ghz Quad/8GB/256GB/Integrated AMD Radeon Graphics/Wi-Fi 6/BT5.3/IR &amp; 1080p/BKLT/FPR/NoOS/1Y/Arctic Grey</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="11"/>
+        <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>268990</price>
@@ -91,7 +91,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>630440</price>
+      <price>630385</price>
     </offer>
     <offer sku="83JG009VRK">
       <model>Ноутбук Lenovo 83JG009VRK LOQ 15AHP10 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 250 3.30Ghz (8Cores)/Integrated AMD Ryzen AI/AI-Powered Gaming PC/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.3/5MP Camera/BKLT/NoOS/1Y/Luna Grey</model>
@@ -100,7 +100,7 @@
         <availability available="yes" storeId="PP1" stockCount="8"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>641940</price>
+      <price>632940</price>
     </offer>
     <offer sku="83JH00DERK">
       <model>Ноутбук Lenovo 83JH00DERK LOQ 17IRX10 17.3&apos;&apos; FHD(1920x1080) IPS 165Hz/Intel Core i5-13450HX up to 4.6GHz (P), 3.4GHz (E) (10Cores)/AI-Powered Gaming PC/24GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.2/5MP Camera/24Zone RGB BKLT/NoOS/1Y/Luna Grey</model>
@@ -235,7 +235,7 @@
         <availability available="yes" storeId="PP1" stockCount="35"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>876378</price>
+      <price>876327</price>
     </offer>
     <offer sku="90NB1861-M004K0">
       <model>Ноутбук Asus 90NB1861-M004K0 ProArt PZ14 HT7407NA-SN096X 14&quot; 3K (2880 x 1800) Touch OLED 144Hz/Snapdragon X2 Elite up to 4.0GHz (18C)/16GB/512GB/Qualcomm Adreno GPU/Wi-Fi 7/BT6.0/Front 8.0M camera + IR, Rear 13.0M Ultra HD/BKLT/Windows 11 Pro/1Y/Nano Black</model>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1592260</price>
+      <price>1592250</price>
     </offer>
     <offer sku="90NR0LT1-M00JL0">
       <model>Ноутбук Asus 90NR0LT1-M00JL0 ROG Strix G18 G815LR-TT373W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -280,7 +280,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1914087</price>
+      <price>1914036</price>
     </offer>
     <offer sku="90NR0PC1-M00760">
       <model>Ноутбук Asus 90NR0PC1-M00760 ROG Zephyrus G16 GU606AR-TB054W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT6.0/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -304,7 +304,7 @@
       <model>Ноутбук HP C0BN5EA OMEN Gaming Laptop 16-am0048ci 16&quot; WUXGA (1920x1200) IPS 60-144Hz/Intel Core i7-14650HX up to 5,2Ghz 16Core/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6/BT5.4/HP TrueVision FHD 1080p/4Zone RGB BKLT/DOS/1Y/Dark grey</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="4"/>
+        <availability available="yes" storeId="PP1" stockCount="2"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>739990</price>
@@ -379,7 +379,7 @@
         <availability available="yes" storeId="PP1" stockCount="5"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>277883</price>
+      <price>277886</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
@@ -427,7 +427,7 @@
     <offer sku="NKLPA15PROYF5516512">
       <model>Ноутбук Ninkear NKLPA15PROYF5516512 A15 Pro 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5500U/16GB/512GB/Wi-Fi 6/BKLT/FPR/Windows 11 Home/1Y</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="171"/>
+        <availability available="yes" storeId="PP1" stockCount="170"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>299990</price>
