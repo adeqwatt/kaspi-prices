@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-27 15:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-27 16:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -181,7 +181,7 @@
         <availability available="yes" storeId="PP1" stockCount="57"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>479922</price>
+      <price>479904</price>
     </offer>
     <offer sku="90NX0881-M03PR0">
       <model>Ноутбук Asus 90NX0881-M03PR0 ExpertBook P1503CVAY-S73166W 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/Windows 11 Home/1Y/Misty Grey</model>
@@ -235,7 +235,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>547987</price>
+      <price>547969</price>
     </offer>
     <offer sku="90NB1961-M00D80">
       <model>Ноутбук Asus 90NB1961-M00D80 Vivobook S16 S5652MA-TK179W 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 7 350 up to 4.8GHz (6C)/16GB/256GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/Windows 11 Home/1Y/Cool Silver</model>
@@ -253,7 +253,7 @@
         <availability available="yes" storeId="PP1" stockCount="25"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>596684</price>
+      <price>596666</price>
     </offer>
     <offer sku="90NR0JF7-M010K0">
       <model>Ноутбук Asus 90NR0JF7-M010K0 TUF Gaming A15 FA506NCG-HN469W 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 155 up to 4.7GHz (6C)/16GB/512GB/NVIDIA GeForce RTX3050 4GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/Windows 11 Home/1Y/Graphite Black</model>
@@ -493,7 +493,7 @@
         <availability available="yes" storeId="PP1" stockCount="157"/>
         <availability available="yes" storeId="PP2" stockCount="5"/>
       </availabilities>
-      <price>299885</price>
+      <price>299883</price>
     </offer>
     <offer sku="NKLPS14YF66161024">
       <model>Ноутбук Ninkear NKLPS14YF66161024 S14 14&quot; 2.2K (2240x1400) IPS/AMD Ryzen 5 6600H/16GB/1TB SSD/Wi-Fi 6/BKLT/FPR/Windows 11 Home/1Y</model>
