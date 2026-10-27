@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-27 17:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-10-27 18:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -181,7 +181,7 @@
         <availability available="yes" storeId="PP1" stockCount="57"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>479904</price>
+      <price>479930</price>
     </offer>
     <offer sku="90NX0881-M03PR0">
       <model>Ноутбук Asus 90NX0881-M03PR0 ExpertBook P1503CVAY-S73166W 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/Windows 11 Home/1Y/Misty Grey</model>
@@ -235,7 +235,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>547969</price>
+      <price>548990</price>
     </offer>
     <offer sku="90NB1961-M00D80">
       <model>Ноутбук Asus 90NB1961-M00D80 Vivobook S16 S5652MA-TK179W 16&quot; WUXGA(1920x1200) IPS 144Hz/Intel Core 7 350 up to 4.8GHz (6C)/16GB/256GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/Windows 11 Home/1Y/Cool Silver</model>
@@ -253,7 +253,7 @@
         <availability available="yes" storeId="PP1" stockCount="25"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>596666</price>
+      <price>596673</price>
     </offer>
     <offer sku="90NR0JF7-M010K0">
       <model>Ноутбук Asus 90NR0JF7-M010K0 TUF Gaming A15 FA506NCG-HN469W 15.6&quot; FHD(1920x1080) IPS 144Hz/AMD Ryzen 7 155 up to 4.7GHz (6C)/16GB/512GB/NVIDIA GeForce RTX3050 4GB/Wi-Fi 6/BT5.3/720P HD Camera/RGB Backlit/Windows 11 Home/1Y/Graphite Black</model>
@@ -474,7 +474,7 @@
     <offer sku="NKLPA15AIRYF3516512">
       <model>Ноутбук Ninkear NKLPA15AIRYF3516512 A15 Air 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 3500U 2.1GHZ (4C)/16GB/512GB/Wi-Fi/Windows 11 Home/1Y</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="86"/>
+        <availability available="yes" storeId="PP1" stockCount="85"/>
         <availability available="yes" storeId="PP2" stockCount="5"/>
       </availabilities>
       <price>229990</price>
