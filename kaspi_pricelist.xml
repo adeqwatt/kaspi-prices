@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-04 15:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-04 16:08">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>840551</price>
+      <price>840547</price>
     </offer>
     <offer sku="90NR0NM1-M005M0">
       <model>Ноутбук Asus 90NR0NM1-M005M0 TUF Gaming A18 FA808UH-S8058W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -289,7 +289,7 @@
         <availability available="yes" storeId="PP1" stockCount="33"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>869035</price>
+      <price>869034</price>
     </offer>
     <offer sku="90NR0NN1-M00FT0">
       <model>Ноутбук Asus 90NR0NN1-M00FT0 TUF Gaming A18 FA808UM-S8267W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 253 up to 4.9GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -325,7 +325,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1221574</price>
+      <price>1221522</price>
     </offer>
     <offer sku="90NB17W1-M007C0">
       <model>Ноутбук Asus 90NB17W1-M007C0 Zenbook A16 UX3607OA-SQ013W  16&quot; 3K (2880 x 1800) OLED 120Hz/Snapdragon X2 Elite Extreme up to 4.4GHz (18C)/48GB/1TB SSD/Qualcomm Adreno GPU/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zabriskie Beige</model>
@@ -352,7 +352,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1403315</price>
+      <price>1403257</price>
     </offer>
     <offer sku="90NR0M21-M007B0">
       <model>Ноутбук Asus 90NR0M21-M007B0 ROG Zephyrus G16 GU605CM-QR104W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 7 255H up to 5.1 GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -388,7 +388,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1913424</price>
+      <price>1913373</price>
     </offer>
     <offer sku="90NR0PC1-M00760">
       <model>Ноутбук Asus 90NR0PC1-M00760 ROG Zephyrus G16 GU606AR-TB054W 16&quot; WQXGA(2560x1600) OLED 240Hz/Intel Core Ultra 9 386H up to 4.9GHz (16C)/32GB/1TB SSD/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 7/BT6.0/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Platinum White</model>
@@ -460,7 +460,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
-      <price>276776</price>
+      <price>276774</price>
     </offer>
     <offer sku="D74BQEA">
       <model>Ноутбук HP D74BQEA OmniBook 3 Laptop 16-by0033ci 16&quot; WUXGA (1920x1200) IPS/AMD Ryzen 5 40 up to 4.3Ghz 4Cores/8GB/512GB/AMDRadeon 610M/Wi-Fi 6/BT5.4/1080p FHD/DOS/1Y/Mica silver</model>
@@ -532,7 +532,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1108351</price>
+      <price>1108293</price>
     </offer>
     <offer sku="NKLPA15AIRYF3516512">
       <model>Ноутбук Ninkear NKLPA15AIRYF3516512 A15 Air 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 3500U 2.1GHZ (4C)/16GB/512GB/Wi-Fi/Windows 11 Home/1Y</model>
