@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-12 09:12">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-12 10:08">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -208,7 +208,7 @@
         <availability available="yes" storeId="PP1" stockCount="67"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>553840</price>
+      <price>553790</price>
     </offer>
     <offer sku="90NX0AC1-M00650">
       <model>Ноутбук Asus 90NX0AC1-M00650 ExpertBook P5 G2 P5605CAA-MB0102 16&quot; WUXGA(1920x1200) IPS/Intel Core Ultra 5 325 up to 4.5GHz (8C)/16GB/512GB/Intel Graphics/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/BKLT/FPR/NoOS/1Y/Misty Grey</model>
@@ -235,7 +235,7 @@
         <availability available="yes" storeId="PP1" stockCount="15"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>737932</price>
+      <price>737990</price>
     </offer>
     <offer sku="90NR0R61-M00270">
       <model>Ноутбук Asus 90NR0R61-M00270 TUF Gaming 16 FX610UH-TU044W 16&quot; WUXGA(1920x1200) IPS 144Hz/AMD Ryzen 7 260 up to 5,1Ghz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6/BT5.4/720P HD Camera/RGB Backlit/Windows 11 Home/1Y/Off Black</model>
@@ -262,7 +262,7 @@
         <availability available="yes" storeId="PP1" stockCount="32"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>866837</price>
+      <price>866779</price>
     </offer>
     <offer sku="90NR0NN1-M00FT0">
       <model>Ноутбук Asus 90NR0NN1-M00FT0 TUF Gaming A18 FA808UM-S8267W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 253 up to 4.9GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -271,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>983631</price>
+      <price>983573</price>
     </offer>
     <offer sku="90NB1861-M004K0">
       <model>Ноутбук Asus 90NB1861-M004K0 ProArt PZ14 HT7407NA-SN096X 14&quot; 3K (2880 x 1800) Touch OLED 144Hz/Snapdragon X2 Elite up to 4.0GHz (18C)/16GB/512GB/Qualcomm Adreno GPU/Wi-Fi 7/BT6.0/Front 8.0M camera + IR, Rear 13.0M Ultra HD/BKLT/Windows 11 Pro/1Y/Nano Black</model>
@@ -280,7 +280,7 @@
         <availability available="yes" storeId="PP1" stockCount="7"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1185700</price>
+      <price>1185642</price>
     </offer>
     <offer sku="90NR0LE1-M00C40">
       <model>Ноутбук Asus 90NR0LE1-M00C40 ROG Strix G18 G815JMR-TT257W 18&apos;&apos; WQXGA (2560 x 1600) IPS 300Hz/Intel Core i9-14900HX up to 5.8GHz(24Cores)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -298,7 +298,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1221110</price>
+      <price>1221990</price>
     </offer>
     <offer sku="90NB17W1-M007C0">
       <model>Ноутбук Asus 90NB17W1-M007C0 Zenbook A16 UX3607OA-SQ013W  16&quot; 3K (2880 x 1800) OLED 120Hz/Snapdragon X2 Elite Extreme up to 4.4GHz (18C)/48GB/1TB SSD/Qualcomm Adreno GPU/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zabriskie Beige</model>
@@ -316,7 +316,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1344700</price>
+      <price>1344642</price>
     </offer>
     <offer sku="90NR0NJ7-M00AZ0">
       <model>Ноутбук Asus 90NR0NJ7-M00AZ0 ROG Strix G16 G614PR-RV010W 16&quot; WUXGA(1920x1200) IPS 165Hz/AMD Ryzen 9 8940HX up to 5.3GHz (16C)/16GB/512GB/NVIDIA GeForce RTX5070 Ti 12GB/Wi-Fi 6E/BT5.3/1080P FHD Camera/4Zone RGB BKLT/Windows 11 Home/1Y/Eclipse Gray</model>
@@ -343,7 +343,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1693874</price>
+      <price>1693816</price>
     </offer>
     <offer sku="90NB16A1-M00KX0">
       <model>Ноутбук Asus 90NB16A1-M00KX0 ProArt P16 H7607BA-SE323X 16.0&apos;&apos; UHD+ (3840x2400) 120Hz OLED Touch/NVIDIA RTX Spark N1X (5120-core GPU, 18-core CPU)/24GB RAM/512GB PCIe 4.0 SSD/Wi-Fi 7/FHD IR Camera/Win 11 Pro/Color Nano Black</model>
@@ -361,7 +361,7 @@
         <availability available="yes" storeId="PP1" stockCount="3"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1912659</price>
+      <price>1912608</price>
     </offer>
     <offer sku="90NR0LF1-M00V50">
       <model>Ноутбук Asus 90NR0LF1-M00V50 ROG Strix SCAR 18 G835LXG-TQ533W 18&apos;&apos; WQUXGA  (3840 x 2400)  MiniLED 240Hz/Intel Core Ultra 9 290HX up to 5.5GHz (24C)/32GB/1TB SSD/NVIDIA GeForce RTX5090 24GB/Wi-Fi 7/BT5.4/IR+1080P FHD Camera/RGB Backlit PerKey/Windows 11 Home/1Y/Off Black</model>
@@ -379,7 +379,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>3344455</price>
+      <price>3344397</price>
     </offer>
     <offer sku="90NX0881-M03U90">
       <model>Ноутбук Asus 90NX0881-M03U90 ExpertBook P1 P1503CVAY-S73167 15.6&quot; FHD(1920x1080) IPS/Intel Core 7 240H up to 5.2Ghz (10C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/NoOS/1Y/Misty Grey</model>
@@ -460,7 +460,7 @@
         <availability available="yes" storeId="PP1" stockCount="19"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>628076</price>
+      <price>628016</price>
     </offer>
     <offer sku="D4YM7EA">
       <model>Системный блок HP D4YM7EA OmniDesk Desktop AI M03-0012ci PC Intel Core Ultra 5 225 up to 4.9GHz (10C)/16GB/512GB/NVIDIA GeForce RTX 5060 8GB GDDR7/USB mouse+keyboard/Wi-Fi 6/BT5.4/NoOS/1Y/Gray Wood</model>
@@ -487,7 +487,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1106881</price>
+      <price>1106823</price>
     </offer>
     <offer sku="NKLPA15AIRYF3516512">
       <model>Ноутбук Ninkear NKLPA15AIRYF3516512 A15 Air 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 3500U 2.1GHZ (4C)/16GB/512GB/Wi-Fi/Windows 11 Home/1Y</model>
