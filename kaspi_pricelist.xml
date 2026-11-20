@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-20 10:07">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-20 11:07">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -91,7 +91,7 @@
         <availability available="yes" storeId="PP1" stockCount="13"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>951094</price>
+      <price>951038</price>
     </offer>
     <offer sku="83F000BKRK">
       <model>Ноутбук Lenovo 83F000BKRK Legion 5 15IAX10 15.1&quot; WQXGA (2560x1600) OLED 165Hz/Intel Core Ultra 9 275HX up to 5.4GHz (24Cores)/Integrated Intel® AI Boost/AI-Powered Gaming PC/16GB/1TB SSD/NVIDIA GeForce RTX5070 8GB/Wi-Fi 7/BT5.4/5MP Camera/24Zone RGB BKLT/Windows 11 Home/1Y/Eclipse Black</model>
@@ -190,7 +190,7 @@
         <availability available="yes" storeId="PP1" stockCount="338"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>551622</price>
+      <price>551571</price>
     </offer>
     <offer sku="90NX0AC1-M00650">
       <model>Ноутбук Asus 90NX0AC1-M00650 ExpertBook P5 G2 P5605CAA-MB0102 16&quot; WUXGA(1920x1200) IPS/Intel Core Ultra 5 325 up to 4.5GHz (8C)/16GB/512GB/Intel Graphics/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/BKLT/FPR/NoOS/1Y/Misty Grey</model>
@@ -226,7 +226,7 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>826519</price>
+      <price>826457</price>
     </offer>
     <offer sku="90NR0NM1-M005M0">
       <model>Ноутбук Asus 90NR0NM1-M005M0 TUF Gaming A18 FA808UH-S8058W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 260 3,8GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5050 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -244,7 +244,7 @@
         <availability available="yes" storeId="PP1" stockCount="32"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>862328</price>
+      <price>862278</price>
     </offer>
     <offer sku="90NR0NN1-M00FT0">
       <model>Ноутбук Asus 90NR0NN1-M00FT0 TUF Gaming A18 FA808UM-S8267W 18&apos;&apos; WUXGA (1920 x 1200) IPS 144Hz/AMD Ryzen 7 253 up to 4.9GHz (8C)/16GB/512GB/NVIDIA GeForce RTX5060 8GB/Wi-Fi 6E/BT5.4/IR+1080P FHD Camera/RGB Backlit/Windows 11 Home/1Y/Jaeger Gray</model>
@@ -280,7 +280,7 @@
         <availability available="yes" storeId="PP1" stockCount="10"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1220425</price>
+      <price>1220374</price>
     </offer>
     <offer sku="90NB17W1-M007C0">
       <model>Ноутбук Asus 90NB17W1-M007C0 Zenbook A16 UX3607OA-SQ013W  16&quot; 3K (2880 x 1800) OLED 120Hz/Snapdragon X2 Elite Extreme up to 4.4GHz (18C)/48GB/1TB SSD/Qualcomm Adreno GPU/Wi-Fi 7/BT5.4/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Zabriskie Beige</model>
@@ -334,7 +334,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>3343751</price>
+      <price>3343693</price>
     </offer>
     <offer sku="90NX0881-M03U90">
       <model>Ноутбук Asus 90NX0881-M03U90 ExpertBook P1 P1503CVAY-S73167 15.6&quot; FHD(1920x1080) IPS/Intel Core 7 240H up to 5.2Ghz (10C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/NoOS/1Y/Misty Grey</model>
@@ -370,7 +370,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
-      <price>377950</price>
+      <price>377899</price>
     </offer>
     <offer sku="D9CB8EA">
       <model>Ноутбук HP D9CB8EA Laptop 15-fc0208ci 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 7430U up to 4.3GHz (6C)/16GB/512GB/AMDRadeon Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Natural silver</model>
@@ -433,7 +433,7 @@
         <availability available="yes" storeId="PP1" stockCount="4"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
-      <price>1105407</price>
+      <price>1105347</price>
     </offer>
     <offer sku="E1SF6EA">
       <model>Ноутбук HP E1SF6EA HyperX OMEN MAX 16 inch Gaming Laptop PC 16-ak1014ci 16&quot; 2.5K (2560x1600) IPS 240Hz/AMD Ryzen AI 9 HX 475 up to 5.2GHz (12С)/32GB/1TB SSD/NVIDIA GeForce RTX5080 16GB/Wi-Fi 7/BT6.0/1080p FHD IR/RGB Backlit Per key/Windows 11 Home/1Y/Shadow black</model>
