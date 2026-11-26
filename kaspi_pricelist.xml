@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-26 11:08">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-26 11:58">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -183,6 +183,15 @@
       </availabilities>
       <price>362990</price>
     </offer>
+    <offer sku="90NX0881-M03PM0">
+      <model>Ноутбук Asus 90NX0881-M03PM0 ExpertBook P1503CVAY-S73165W 15.6&quot; FHD(1920x1080) IPS/Intel Core 5 210H up to 4.8GHz (8C)/8GB/256GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/Windows 11 Home/1Y/Misty Grey</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="135"/>
+        <availability available="no" storeId="PP2" stockCount="0"/>
+      </availabilities>
+      <price>360990</price>
+    </offer>
     <offer sku="90NX0871-M02NA0">
       <model>Ноутбук Asus 90NX0871-M02NA0  ExpertBook P1 P1403CVAY-S62222 14&quot; FHD(1920x1080)/Intel Core 5 210H up to 4.8GHz (8C)/16GB/512GB/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/FPR/NoOS/1Y/Misty Grey</model>
       <brand>Asus</brand>
@@ -200,6 +209,15 @@
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>461790</price>
+    </offer>
+    <offer sku="90NX0881-M03PR0">
+      <model>Ноутбук ASUS 90NX0881-M03PR0 ExpertBook P1 P1503CVAY-S73166W 15.6&quot; FHD (19201080) IPS-level/Intel Core 5 210H up to 4,8GHz 8Core/16GB DDR4-2666/512GB SSD PCIe Gen4/Intel Graphics/Wi-Fi 6/BT5.4/1080p FHD/HDMI 1.4/USB-C/FP/Num-key/Windows 11 Home/1Y/Misty Grey</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="197"/>
+        <availability available="no" storeId="PP2" stockCount="0"/>
+      </availabilities>
+      <price>496990</price>
     </offer>
     <offer sku="90NB1991-M00PL0">
       <model>Ноутбук Asus 90NB1991-M00PL0 Vivobook S14 S5452MA-TM292W 14.0&quot; WUXGA (1920x1200) IPS-level 60Hz/Intel Core 5 320 up to 4.6GHz (6C/6T)/16GB LPDDR5X/256GB SSD/Intel Graphics/Wi-Fi 6/BT5.4/1080P FHD Camera/BKLT/Windows 11 Home/Matte Gray</model>
@@ -253,7 +271,7 @@
         <availability available="yes" storeId="PP1" stockCount="136"/>
         <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
-      <price>524990</price>
+      <price>526990</price>
     </offer>
     <offer sku="90NB19K1-M00DC0">
       <model>Ноутбук Asus 90NB19K1-M00DC0 Zenbook 14 UX3480QA-U1123W 14&quot; WUXGA (1920 x 1200) OLED/Snapdragon® X  X1 26 100 Processor up to 2.97GHz (8C)/16GB/256GB/Qualcomm Adreno GPU/Wi-Fi 6E/BT5.3/IR+FHD Camera/BKLT/Windows 11 Home/1Y/Arctic Blue</model>
@@ -493,7 +511,7 @@
       <model>Ноутбук HP E1SE8EA OmniBook X Laptop Next Gen AI 14-ka0013ci 14&quot; 2K (1920x1200) OLED/Intel Core Ultra 7 355 up to 4.7Ghz (8С)/16GB/1TB SSD/Intel Graphics/Wi-Fi 7/BT6.0/5MP+IR/BKLT/Windows 11 Home/1Y/Glacier silver</model>
       <brand>HP</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="39"/>
+        <availability available="yes" storeId="PP1" stockCount="38"/>
         <availability available="no" storeId="PP2" stockCount="0"/>
       </availabilities>
       <price>767990</price>
@@ -547,7 +565,7 @@
       <model>Ноутбук Ninkear NKLPA15AIRYF3516512 A15 Air 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 3500U 2.1GHZ (4C)/16GB/512GB/Wi-Fi/Windows 11 Home/1Y</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="64"/>
-        <availability available="yes" storeId="PP2" stockCount="11"/>
+        <availability available="yes" storeId="PP2" stockCount="10"/>
       </availabilities>
       <price>223990</price>
     </offer>
@@ -562,8 +580,8 @@
     <offer sku="NKLPA15PROYF5516512">
       <model>Ноутбук Ninkear NKLPA15PROYF5516512 A15 Pro 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 5500U/16GB/512GB/Wi-Fi 6/BKLT/FPR/Windows 11 Home/1Y</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="138"/>
-        <availability available="yes" storeId="PP2" stockCount="2"/>
+        <availability available="yes" storeId="PP1" stockCount="139"/>
+        <availability available="yes" storeId="PP2" stockCount="1"/>
       </availabilities>
       <price>295990</price>
     </offer>
