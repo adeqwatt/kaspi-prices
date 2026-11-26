@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-26 11:58">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd" date="2026-11-26 12:09">
   <company>PrimeComputers</company>
   <merchantid></merchantid>
   <offers>
@@ -478,7 +478,7 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
         <availability available="yes" storeId="PP2" stockCount="2"/>
       </availabilities>
-      <price>350888</price>
+      <price>350837</price>
     </offer>
     <offer sku="D9CB8EA">
       <model>Ноутбук HP D9CB8EA Laptop 15-fc0208ci 15.6&quot; FHD(1920x1080) IPS/AMD Ryzen 5 7430U up to 4.3GHz (6C)/16GB/512GB/AMDRadeon Graphics/Wi-Fi 6/BT5.4/HP TrueVision 720p/DOS/1Y/Natural silver</model>
